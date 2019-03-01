@@ -1,8 +1,4 @@
-# Selenium Example - Using C#.NET, Selenium, and the NUnit Test Runner
-
-```
-This solution demonstrates a scalable, maintainable, readable and repeatable Automation Framework:
-```
+# Selenium Test Automation
 
 ### Key Design Elements:
 1. Architecture Layers include Tests, Framework, Selenium Page Objects and Browser.
@@ -40,13 +36,4 @@ This solution demonstrates a scalable, maintainable, readable and repeatable Aut
 * Click File > Open project and open \SeleniumDemoTests\bin\Debug\SeleniumDemoTests.dll
 * Select tests to run
 * Click Run
-
-### Current Versions:
-
-```
-* Visual Studio: 2015 or above
-* Selenium WebDriver: 2.48.2
-* NUnit 2.6.4
-* SpecFlow: 1.9.0.77
-```
 
