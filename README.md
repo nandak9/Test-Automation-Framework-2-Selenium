@@ -1,6 +1,6 @@
 # Selenium Test Automation
 
-### Key Design Elements:
+### Key Design Elements: 
 1. Architecture Layers include Tests, Framework, Selenium Page Objects and Browser.
 2. Page Object Pattern - clear seperation of pages versus test cases and represtative of the application.
 3. All page classes contructors are called via a Single Generic type of page.
